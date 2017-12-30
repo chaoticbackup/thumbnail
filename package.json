@@ -1,0 +1,14 @@
+{
+  "name": "chaoticbackup",
+  "version": "0.0.1",
+  "description": "Chaotic Backup",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Danude Sandstorm",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "path": "^0.12.7"
+  }
+}
